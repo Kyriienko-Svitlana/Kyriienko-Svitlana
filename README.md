@@ -1,51 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Svitlana Kyriienko
 
-My name is Svitlana Kyriienko, and I am currently studying to become a Data Analyst. This profile is my learning space where I gradually develop skills in Python, data analysis, ETL processes, and various tools for working with data.
+I am currently studying to become a **Data Analyst**, and this profile is my learning space where I gradually develop skills in **Python**, **data analysis**, **ETL processes**, and various tools for working with data.
 
-📚 My Learning Repositories
+---
 
-All the repositories listed below are educational and created for practice during my studies:
+## 📚 My Learning Repositories
 
-🔹 Python & Programming Basics
-first_project — 
-python-for-data — 
-Practice-tasks-Python — 
-test-tasks-Python — 
+All repositories listed below are educational and created for practice during my studies:
 
-🔹 Data Engineering / ETL
-task-ETL-1 — 
+### 🔹 Python & Programming Basics
 
-🔹 Other Learning Projects
-money-manager — 
+* [first_project](https://github.com/Kyriienko-Svitlana/first_project)
+* [python-for-data](https://github.com/Kyriienko-Svitlana/python-for-data)
+* [test-task-Python-DTA](https://github.com/Kyriienko-Svitlana/test-task-Python-DTA)
 
-🔹 Profile Repository
+### 🔹 Data Engineering / ETL
 
+* [task-ETL-1](https://github.com/Kyriienko-Svitlana/task-ETL-1)
 
-🌱 Currently Learning
+### 🔹 Other Learning Projects
 
-Python (advanced)
-Pandas, NumPy
-Data visualization (Matplotlib, Seaborn, Plotly)
-SQL
-Fundamentals of analytics and ETL
+* [money-manager](https://github.com/Kyriienko-Svitlana/money-manager)
 
-📫 How to Reach Me
+### 🔹 Profile Repository
 
-GitHub: https://github.com/Kyriienko-Svitlana/Kyriienko-Svitlana
-Email: 1398525@gmail.com
-LinkedIn: 
+* [Kyriienko-Svitlana (this profile)](https://github.com/Kyriienko-Svitlana/Kyriienko-Svitlana)
 
-Thanks for visiting! 😊<!--
-**Kyriienko-Svitlana/Kyriienko-Svitlana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python (advanced)
+* Pandas, NumPy
+* Data visualization (Matplotlib, Seaborn, Plotly)
+* SQL
+* Fundamentals of analytics and ETL
+
+---
+
+## 📫 How to Reach Me
+
+* **GitHub:** [Kyriienko-Svitlana](https://github.com/Kyriienko-Svitlana/Kyriienko-Svitlana)
+* **LinkedIn:** [Svitlana Kyriienko](https://www.linkedin.com/in/svitlana-kyriienko-b879b2105/)
+* **Email:** [1398525@gmail.com](mailto:1398525@gmail.com)
+
+---
+
+Thanks for visiting! 😊
